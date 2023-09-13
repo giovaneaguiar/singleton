@@ -1,6 +1,6 @@
-package test;
+package test.configuracoesapptest;
 
-import main.ConfiguracoesApp;
+import main.configuracoesapp.ConfiguracoesApp;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

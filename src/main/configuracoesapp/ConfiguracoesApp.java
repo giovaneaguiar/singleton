@@ -1,4 +1,4 @@
-package main;
+package main.configuracoesapp;
 
 public class ConfiguracoesApp {
 

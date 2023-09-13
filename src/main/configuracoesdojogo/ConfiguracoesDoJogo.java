@@ -1,4 +1,4 @@
-package main;
+package main.configuracoesdojogo;
 
 public class ConfiguracoesDoJogo {
     //Desenvolvimento um jogo para armazenar configurações globais, como o nível atual do jogo, o nome do jogador e
