@@ -17,4 +17,10 @@ public class ConfiguracoesDoJogoTest {
         ConfiguracoesDoJogo.getInstance().setNivelAtual(8);
         assertEquals(8, ConfiguracoesDoJogo.getInstance().getNivelAtual());
     }
+
+    @Test
+    void testValoresIniciaisDoJogo() {
+        assertNull(ConfiguracoesDoJogo.getInstance().getNomeDoJogador());
+        assertEquals(0, ConfiguracoesDoJogo.getInstance().getNivelAtual());
+    }
 }
