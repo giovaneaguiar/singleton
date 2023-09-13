@@ -31,4 +31,9 @@ public class ConfiguracoesApp {
     public void setVersao(String versao) {
         this.versao = versao;
     }
+
+    public void reset() {
+        nomeApp = null;
+        versao = null;
+    }
 }
