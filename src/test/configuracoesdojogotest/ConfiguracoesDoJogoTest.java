@@ -1,6 +1,6 @@
 package test.configuracoesdojogotest;
 
-import main.configuracoesdojogo.ConfiguracoesDoJogo;
+import configuracoesdojogo.ConfiguracoesDoJogo;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
